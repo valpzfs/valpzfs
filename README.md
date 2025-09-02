@@ -1,5 +1,5 @@
-<h1 align="center">Hello :) 👋, I'm Valeria</h1>
-<h3 align="center">Computer Science student passionate about software development, UI/UX design, computer networking, and cybersecurity. Strong foundations in C++, Python, and SQL. Experienced in web development, Unity game development, implementation of REST APIs, SQL database management, and basic network configuration</h3>
+<h1>Hello :) 👋, I'm Valeria</h1>
+<h3>Computer Science student passionate about software development, UI/UX design, computer networking, and cybersecurity. Strong foundations in C++, Python, and SQL. Experienced in web development, Unity game development, implementation of REST APIs, SQL database management, and basic network configuration</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=valpzfs&label=Profile%20views&color=0e75b6&style=flat" alt="valpzfs" /> </p>
 

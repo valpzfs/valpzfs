@@ -10,9 +10,3 @@ Computer Science student passionate about software development, UI/UX design, co
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=valpzfs&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
